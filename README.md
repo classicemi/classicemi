@@ -5,6 +5,8 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Samuel](https://img.shields.io/github/followers/classicemi?label=follow&style=social)](https://github.com/classicemi)
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=classicemi&show_icons=true&theme=default&hide_title=true" />
+
 <!--START_SECTION:waka-->
 ```text
 Vue.js       7 hrs 7 mins    ██████████████▒░░░░░░░░░░   57.94 % 
@@ -15,7 +17,6 @@ HTML         2 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=classicemi&show_icons=true&theme=default&hide_title=true" />
 <!--
 **classicemi/classicemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
