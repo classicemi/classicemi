@@ -1,6 +1,13 @@
 [![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=classicemi&count_private=true&show_icons=true)](https://github.com/classicemi)
 
 <!--START_SECTION:waka-->
+```text
+Vue.js       7 hrs 7 mins    ██████████████▒░░░░░░░░░░   57.94 % 
+JavaScript   4 hrs 51 mins   ██████████░░░░░░░░░░░░░░░   39.42 % 
+JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+```
 <!--END_SECTION:waka-->
 
 <!--
