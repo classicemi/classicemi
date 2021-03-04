@@ -4,7 +4,7 @@
 [![Twitter: Samuel](https://img.shields.io/twitter/follow/1227_samuel?style=flat-square&logo=twitter)](https://twitter.com/1227_samuel)
 [![GitHub Samuel](https://img.shields.io/github/followers/classicemi?label=follow&style=flat-square&logo=github)](https://github.com/classicemi)
 
-<img src="https://github-readme-stats.vercel.app/api?username=classicemi&show_icons=true&theme=default&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=classicemi&show_icons=true&theme=dark&hide_title=true" />
 
 <!--START_SECTION:waka-->
 ```text
