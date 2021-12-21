@@ -8,11 +8,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       4 hrs           ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
-JavaScript   3 hrs 41 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.54 % 
-TypeScript   3 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-JSON         2 hrs 52 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.55 % 
-YAML         1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Vue.js       4 hrs 14 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.60 % 
+TypeScript   3 hrs 26 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.65 % 
+JSON         2 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+JavaScript   2 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Markdown     1 hr 41 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
 ```
 <!--END_SECTION:waka-->
 
