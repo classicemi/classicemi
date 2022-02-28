@@ -7,12 +7,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=classicemi&show_icons=true&theme=dark&hide_title=true" />
 
 <!--START_SECTION:waka-->
+
 ```text
-Vue.js       5 hrs 31 mins   ████████████████░░░░░░░░░   63.83 % 
-TypeScript   2 hrs 56 mins   ████████▓░░░░░░░░░░░░░░░░   34.03 % 
-JavaScript   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Vue.js       5 hrs 31 mins   ████████████████░░░░░░░░░   63.83 %
+TypeScript   2 hrs 56 mins   ████████▓░░░░░░░░░░░░░░░░   34.03 %
+JavaScript   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
+
 <!--END_SECTION:waka-->
 
 <!--
