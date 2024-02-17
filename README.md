@@ -1,6 +1,7 @@
 ### Hi, I'm Samuel 👨🏻‍💻
 
-![](https://github.com/classicemi/classicemi/assets/3982491/d92e2283-7d29-4f5d-bfb1-d72bb012707a)
+![](https://github.com/classicemi/classicemi/assets/3982491/1bc0f3b6-27c3-4494-968d-78a871544c23)
+
 
 I'm a web developer and work as a frontend engineer at <a href="https://jobs.bytedance.com/en/">ByteDance</a>. I enjoy working with VueJS, ReactJS, Node.js, Python.
 
