@@ -4,16 +4,6 @@
 
 I'm a web developer and work as a frontend engineer at <a href="https://jobs.bytedance.com/en/">ByteDance</a>. I enjoy working with VueJS, ReactJS, Node.js, Python.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jfKfPfyJRdk?si=YiYRInxCo3dED7vl&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 <!--
 **classicemi/classicemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
