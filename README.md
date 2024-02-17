@@ -1,10 +1,10 @@
-<h2> Hi, 我是 Samuel </h2>
-<p><em>前端工程师 @ <a href="https://jobs.bytedance.com/en/">字节跳动</a></em></p>
+# Hi, I'm Samuel 👋🏻 👨🏻‍💻
 
-[![Twitter: Samuel](https://img.shields.io/twitter/follow/1227_samuel?style=flat-square&logo=twitter)](https://twitter.com/1227_samuel)
-[![GitHub Samuel](https://img.shields.io/github/followers/classicemi?label=follow&style=flat-square&logo=github)](https://github.com/classicemi)
+![](https://github.com/classicemi/classicemi/assets/3982491/d92e2283-7d29-4f5d-bfb1-d72bb012707a)
 
-<img src="https://github-readme-stats.vercel.app/api?username=classicemi&show_icons=true&theme=dark&hide_title=true" />
+I'm a web developer and work as a frontend engineer at <a href="https://jobs.bytedance.com/en/">ByteDance</a>. I enjoy working with VueJS, ReactJS, Node.js, Python.
+
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=classicemi&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
 
