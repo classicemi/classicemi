@@ -1,4 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Samuel 👨🏻‍💻
+### Hi, I'm Samuel 👨🏻‍💻
 
 ![](https://github.com/classicemi/classicemi/assets/3982491/d92e2283-7d29-4f5d-bfb1-d72bb012707a)
 
