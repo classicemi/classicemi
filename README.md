@@ -1,8 +1,11 @@
-# Hi, I'm Samuel 👋🏻 👨🏻‍💻
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Samuel 👨🏻‍💻
 
 ![](https://github.com/classicemi/classicemi/assets/3982491/d92e2283-7d29-4f5d-bfb1-d72bb012707a)
 
 I'm a web developer and work as a frontend engineer at <a href="https://jobs.bytedance.com/en/">ByteDance</a>. I enjoy working with VueJS, ReactJS, Node.js, Python.
+
+* 🌍  I'm based in Shanghai
+* ✉️  You can contact me at [wushuang1227@gmail.com](mailto:wushuang1227@gmail.com)
 
 <!--
 **classicemi/classicemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
