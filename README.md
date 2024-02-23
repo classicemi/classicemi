@@ -4,20 +4,12 @@
 
 I'm a web developer and work as a frontend engineer at <a href="https://jobs.bytedance.com/en/">ByteDance</a>. I enjoy working with VueJS, ReactJS, Node.js, Python.
 
-* 🌍  I'm based in Shanghai
+* 🌍  Based in Shanghai, China
 * ✉️  You can contact me at [wushuang1227@gmail.com](mailto:wushuang1227@gmail.com)
+* ⌚️  Guitar player, Mystery lover, Cyberpunk enthusiast
 
-<!--
-**classicemi/classicemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Nerd Stats
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://raw.githubusercontent.com/classicemi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/classicemi/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github-profile-trophy.vercel.app/?username=classicemi&row=1&margin-w=10&theme=algolia&no-frame=true&no-bg=true)
