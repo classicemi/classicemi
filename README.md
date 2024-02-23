@@ -6,7 +6,7 @@ I'm a web developer and work as a frontend engineer at <a href="https://jobs.byt
 
 * 🌍  Based in Shanghai, China
 * ✉️  You can contact me at [wushuang1227@gmail.com](mailto:wushuang1227@gmail.com)
-* ⌚️  Guitar player, Mystery lover, Cyberpunk enthusiast
+* ⌚️  Guitar player, Mystery lover, Cyberpunk enthusiast
 
 ### Nerd Stats
 
