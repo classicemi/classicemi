@@ -8,6 +8,13 @@ I'm a web developer and work as a frontend engineer at <a href="https://jobs.byt
 * ✉️  You can contact me at [wushuang1227@gmail.com](mailto:wushuang1227@gmail.com)
 * ⌚️  Web Developer, VIMer, Guitar player, Mystery lover, Cyberpunk enthusiast
 
+### Tools I use
+
+* Editors: [VSCode (with Vim plugin)](https://code.visualstudio.com/), Vim/[NeoVim](https://neovim.io/), [Fleet](https://www.jetbrains.com/fleet/)
+* Terminal: [iTerm2](https://iterm2.com/), [tmux](https://github.com/tmux/tmux)
+* Note APPs: [Bear](https://bear.app/), [wolai](https://www.wolai.com/)
+* TODO APPs: [TickTick](https://ticktick.com/)
+
 ### Nerd Stats
 
 ![](https://raw.githubusercontent.com/classicemi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
