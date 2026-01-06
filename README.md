@@ -10,7 +10,7 @@ I'm a web developer and work as a frontend engineer at <a href="https://jobs.byt
 
 ### Tools I use
 
-* Editors: [VSCode (with Vim plugin)](https://code.visualstudio.com/), Vim/[NeoVim](https://neovim.io/), [Fleet](https://www.jetbrains.com/fleet/)
+* Editors: [Cursor](https://cursor.com/), [VSCode](https://code.visualstudio.com/), Vim/[NeoVim](https://neovim.io/)
 * Terminal: [iTerm2](https://iterm2.com/), [tmux](https://github.com/tmux/tmux)
 * Note APPs: [Bear](https://bear.app/), [wolai](https://www.wolai.com/)
 * TODO APPs: [TickTick](https://ticktick.com/)
